@@ -1,0 +1,7 @@
+{
+  "name": "youtubestreamapi",
+  "version": "1.0.0",
+  "dependencies": {
+    "ytdl-core": "^4.9.1"
+  }
+}
